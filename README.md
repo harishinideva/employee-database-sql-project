@@ -7,8 +7,7 @@ This project is built using MySQL Workbench. It demonstrates the use of:
 - GROUP BY clause
 - Relational tables (Employee, Department, Payroll, Attendance)
 
-## 🔧 Tools Used
-
-- MySQL Workbench
+🛠️ Tools & Technologies:
+SQL, MySQL (or PostgreSQL), Joins, Aggregates, DDL/DML commands
 
 
